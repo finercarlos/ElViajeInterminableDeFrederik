@@ -11,7 +11,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 - :man: Carlos Caballero Panadero
 - :man: Álvaro Márquez Barbero
-- :woman: Alejandra Rubio Moreno
+- :woman: Alejandra Rubio Moreno <3
 - :woman: Clara Ying Palma Luque
 
 
