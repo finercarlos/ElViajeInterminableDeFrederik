@@ -9,16 +9,17 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Carlos Caballero Panadero
+- :man: Álvaro Márquez Barbero
+- :woman: Alejandra Rubio Moreno
+- :woman: Clara Ying Palma Luque
 
 
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
 - [ ] Comic
 
 
