@@ -26,17 +26,18 @@ Tipo/Género:
 
 ## Resumen
 
-Frederik García es diseñador de moda. Un día empieza a sufrir brotes psicóticos que le hacen tener fuertes alucinaciones, tanto es así, que se imagina constantemente que está viajando por el mundo. Al "no tener" tiempo para su trabajo, por el exceso de viajes, lo deja. Sin embargo todo está en su mente y ahora se encuentra sin trabajo.
+Nadie sabe la verdad sobre Frederik, ni él mismo.
 
 ### Personaje
 
-![](img-nobody.png)
+![](Captura de pantalla 2024-03-18 115518.png)
 
 Nombre: Frederik García
 
 
 ### Historia
 
+Frederik García es diseñador de moda. Un día empieza a sufrir brotes psicóticos que le hacen tener fuertes alucinaciones, tanto es así, que se imagina constantemente que está viajando por el mundo. Al "no tener" tiempo para su trabajo, por el exceso de viajes, lo deja. Sin embargo todo está en su mente y ahora se encuentra sin trabajo.
 
 ### Contexto
 
