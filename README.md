@@ -30,7 +30,7 @@ Nadie sabe la verdad sobre Frederik, ni él mismo.
 
 ### Personaje
 
-![](Captura de pantalla 2024-03-18 115518.png)
+![]([Captura de pantalla 2024-03-18 115518.png](https://github.com/finercarlos/grupo10/blob/241ff7087f432718346602f5b7d748fbae7c8c5d/Captura%20de%20pantalla%202024-03-18%20115518.png))
 
 Nombre: Frederik García
 
