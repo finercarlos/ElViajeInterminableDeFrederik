@@ -15,7 +15,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :woman: Clara Ying Palma Luque
 
 
-Proyecto (código): 
+Proyecto (código): R-3
 
 Tipo/Género:  
 - [ ] FictionCiberpunk  
@@ -26,12 +26,13 @@ Tipo/Género:
 
 ## Resumen
 
+Frederik García es diseñador de moda. Un día empieza a sufrir brotes psicóticos que le hacen tener fuertes alucinaciones, tanto es así, que se imagina constantemente que está viajando por el mundo. Al "no tener" tiempo para su trabajo, por el exceso de viajes, lo deja. Sin embargo todo está en su mente y ahora se encuentra sin trabajo.
 
 ### Personaje
 
 ![](img-nobody.png)
 
-Nombre: 
+Nombre: Frederik García
 
 
 ### Historia
@@ -39,10 +40,11 @@ Nombre:
 
 ### Contexto
 
+Frederik es un joven chico inglés de padres españoles que estudió moda y ahora trabaja de ello. Unos acontecimientos recientes en su vida le cambiarán por completo.
 
 ### Conflicto 
 
-
+Frederik siempre había sido un chico normal, hasta que de repente comenzó a sufrir brotes psicóticos que empezaron a provocarle alucinaciones, que cambiarían su vida.
 
 ### Productos
 
