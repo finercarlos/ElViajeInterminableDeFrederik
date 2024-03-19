@@ -30,7 +30,7 @@ Nadie sabe la verdad sobre Frederik, ni él mismo.
 
 ### Personaje
 
-![]([Captura de pantalla 2024-03-18 115518.png](https://github.com/finercarlos/grupo10/blob/241ff7087f432718346602f5b7d748fbae7c8c5d/Captura%20de%20pantalla%202024-03-18%20115518.png))
+![Captura de pantalla 2024-03-18 115518](https://github.com/finercarlos/ElViajeInterminableDeFrederik/assets/163114340/63015458-2d35-4c65-b4db-2fa4a26a057a)
 
 Nombre: Frederik García
 
@@ -50,7 +50,7 @@ Frederik siempre había sido un chico normal, hasta que de repente comenzó a su
 
 - Personaje: (img personaje y enlace a interactivo)
   
-(https://github.com/finercarlos/grupo10/blob/5630c44bd7afc0c3a7d65cfa5a267a9015570462/fotor-ai-20240318121836.jpg)
+![fotor-ai-20240318121836](https://github.com/finercarlos/ElViajeInterminableDeFrederik/assets/163114340/f4fd1d5f-9404-4b16-a4a6-64079795c39b)
 
 (https://h5p.org/node/1479674)
 
