@@ -49,8 +49,8 @@ Frederik siempre había sido un chico normal, hasta que de repente comenzó a su
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo)
-- fotor-ai-20240318121836.jpg
-- (https://h5p.org/node/1479674)
+fotor-ai-20240318121836.jpg](https://github.com/finercarlos/grupo10/blob/5630c44bd7afc0c3a7d65cfa5a267a9015570462/fotor-ai-20240318121836.jpg)
+(https://h5p.org/node/1479674)
 
 - Banner/Teaser:  (enlace) 
 
